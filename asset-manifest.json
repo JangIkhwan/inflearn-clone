@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inflearn-clone/static/css/main.88404e20.css",
+    "main.js": "/inflearn-clone/static/js/main.52afb039.js",
+    "static/js/787.14a43ebf.chunk.js": "/inflearn-clone/static/js/787.14a43ebf.chunk.js",
+    "index.html": "/inflearn-clone/index.html",
+    "main.88404e20.css.map": "/inflearn-clone/static/css/main.88404e20.css.map",
+    "main.52afb039.js.map": "/inflearn-clone/static/js/main.52afb039.js.map",
+    "787.14a43ebf.chunk.js.map": "/inflearn-clone/static/js/787.14a43ebf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88404e20.css",
+    "static/js/main.52afb039.js"
+  ]
+}
